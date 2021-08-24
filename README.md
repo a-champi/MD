@@ -1,4 +1,4 @@
-## Gibhub mt Github Geschmack
+## Gibhub mit Github Geschmack
 
 ## Aufgaben
 
