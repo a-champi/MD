@@ -15,7 +15,7 @@
 [Bilder](images)
 
 ## Bilder
-![Java](/images/logojava.png)
+![Java](images/logojava.png)
 
 ## Emojis 
 :imp: :warning:
