@@ -2,13 +2,11 @@
 
 ## Aufgaben
 
-
-Checkboxes
-- [X] Externer Link(#externer-link)
-- [X] Interner Link
-- [X] Bilder
-- [X] Emojis
-- [x] Tabellen
+- [X] [Externer Link](#externer-link)
+- [X] [Interner Link](#interner-link)
+- [X] [Bilder](#bilder)
+- [X] [Emojis](#emojis)
+- [x] [Tabellen](#tabellen)
 
 ## Externer-Link
 [GitHub Dokumentacion](https://docs.github.com.de)
@@ -22,3 +20,11 @@ Checkboxes
 ## Emojis 
 :imp: :warning:
 
+
+## Tabellen
+| Name | Klasse |
+|---|--:|
+|Jeremy|D03-2|
+|Felix |D03-2|
+|Danny|D03-2|
+|Antonio|D03-2|
